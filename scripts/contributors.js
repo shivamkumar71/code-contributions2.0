@@ -1,4 +1,1 @@
-const contributorFiles = [
-  "roshanjossey.html",
-  "gokultp.html",
-];
+const contributorFiles = ["farazalam2017.html"];

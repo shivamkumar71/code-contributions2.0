@@ -1,5 +1,4 @@
 const contributorFiles = [
- "Kiniec.html", 
- "roshanjossey.html",
+  "roshanjossey.html",
   "gokultp.html",
 ];
